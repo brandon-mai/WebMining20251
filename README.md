@@ -15,7 +15,7 @@ ELPH is a scalable Graph Neural Network model that improves link prediction by u
 ### Refined GAE
 Refined GAE demonstrates that a standard Graph Auto-Encoder, when properly tuned and enhanced with simple strategies (like Edge Masking and PULL loss), can achieve state-of-the-art performance, challenging the need for more complex architectures.
 
-*   **Paper**: [Reconsidering the Performance of GAE in Link Prediction](https://arxiv.org/abs/2310.02705)
+*   **Paper**: [Reconsidering the Performance of GAE in Link Prediction](https://arxiv.org/html/2411.03845v4)
 *   **Source Code for our experiments**: https://github.com/brandon-mai/Refined-GAE
 
 ### Experiments
